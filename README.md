@@ -4,5 +4,5 @@
 - HTML, CSS, Bootstrap 4
 - jQuery libraries: venobox, slick
 ## Todo
-- Responsive index page
+- Make the index page responsive
 - Complete remaining pages
